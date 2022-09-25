@@ -4,9 +4,9 @@ import * as React from 'react';
 import Application from '../modules/Application';
 
 const IndexPage = () => {
-  return <Application>1</Application>;
+  return <Application>Home Page</Application>;
 };
 
 export default IndexPage;
 
-export const Head: HeadFC = () => <title>Home Page</title>;
+export const Head: HeadFC = () => <title>Viktor Labinskyy</title>;
